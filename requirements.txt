@@ -1,0 +1,9 @@
+# This file lists the dependencies required to run the notebooks
+# Pandas with PyArrow support
+pandas[pyarrow]
+
+# Latest major release of NumPy
+numpy
+
+# Jupyter Notebook for running the notebooks
+notebook
