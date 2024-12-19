@@ -10,7 +10,7 @@ For first-time visitors, please refer to the `SETUP.md` file for detailed instru
 
 | Notebook | Description |
 |----------|-------------|
-| [map_apply_replace_examples.ipynb](/notebooks/map_apply_replace_examples.ipynb) | Examples of using `.map`, `.apply`, and `.reduce` for data cleaning. |
+| [map_apply_replace_examples.ipynb](/notebooks/map_apply_replace_examples.ipynb) | Examples of using `.map`, `.apply`, and `.replace` for data cleaning. |
 
 
 ## Data
