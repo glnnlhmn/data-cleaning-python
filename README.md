@@ -8,9 +8,11 @@ For first-time visitors, please refer to the `SETUP.md` file for detailed instru
 
 ## Notebooks
 
-| Notebook | Description |
-|----------|-------------|
-| [map_apply_replace_examples.ipynb](/notebooks/map_apply_replace_examples.ipynb) | Examples of using `.map`, `.apply`, and `.replace` for data cleaning. |
+| Notebook                                                                        | Description                                                          |
+|---------------------------------------------------------------------------------|----------------------------------------------------------------------|
+| [map_apply_reduce_example_1.ipynb](/notebooks/map_apply_reduce_example_1.ipynb) | Examples of using `.map`, `.apply`, and `.reduce` for data cleaning. |
+| [map_apply_reduce_example_2.ipynb](/notebooks/map_apply_reduce_example_2.ipynb) | An example using `.apply` with more complex data                     |
+| [map_apply_reduce_example_3.ipynb](/notebooks/map_apply_reduce_example_3.ipynb) | An example using `.replace` with more complex data                   |
 
 
 ## Data
